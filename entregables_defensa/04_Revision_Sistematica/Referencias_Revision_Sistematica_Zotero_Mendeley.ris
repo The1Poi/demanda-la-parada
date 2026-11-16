@@ -1,0 +1,748 @@
+TY  - JOUR
+AU  - Page, M. J.
+AU  - McKenzie, J. E.
+AU  - Bossuyt, P. M.
+AU  - Boutron, I.
+AU  - Hoffmann, T. C.
+AU  - Mulrow, C. D.
+PY  - 2021
+TI  - The PRISMA 2020 statement: An updated guideline for reporting systematic reviews
+T2  - BMJ
+JF  - BMJ
+VL  - 372
+IS  - n71
+SP  - 1
+EP  - 9
+DO  - 10.1136/bmj.n71
+UR  - https://doi.org/10.1136/bmj.n71
+KW  - systematic review
+KW  - PRISMA
+KW  - methodology
+KW  - bibliometrics
+ER  - 
+
+TY  - JOUR
+AU  - van Eck, N. J.
+AU  - Waltman, L.
+PY  - 2010
+TI  - Software survey: VOSviewer, a computer program for bibliometric mapping
+T2  - Scientometrics
+JF  - Scientometrics
+VL  - 84
+IS  - 2
+SP  - 523
+EP  - 538
+DO  - 10.1007/s11192-009-0146-3
+UR  - https://doi.org/10.1007/s11192-009-0146-3
+KW  - VOSviewer
+KW  - bibliometrics
+KW  - science mapping
+KW  - co-occurrence network
+ER  - 
+
+TY  - JOUR
+AU  - Campos Trigoso, J. A.
+AU  - Murga Valderrama, N. L.
+AU  - Rituay Trujillo, P. A.
+AU  - García Rosero, L. M.
+PY  - 2021
+TI  - Sostenibilidad del café: revisión sistemática de la literatura
+T2  - Revista Venezolana de Gerencia
+JF  - Revista Venezolana de Gerencia
+VL  - 26
+IS  - 95
+SP  - 943
+EP  - 955
+UR  - https://www.redalyc.org/articulo.oa?id=29069613028
+KW  - systematic review
+KW  - methodology
+KW  - literature review
+ER  - 
+
+TY  - JOUR
+AU  - Vera Carrasco, O.
+PY  - 2009
+TI  - Cómo escribir artículos de revisión
+T2  - Revista Médica La Paz
+JF  - Revista Médica La Paz
+VL  - 15
+IS  - 1
+SP  - 63
+EP  - 69
+UR  - http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S1726-89582009000100010
+KW  - systematic review
+KW  - literature review
+KW  - methodology
+ER  - 
+
+TY  - RPRT
+AU  - Rodríguez Hernández, D. H.
+PY  - 2014
+TI  - Transmisión del efecto cambiario a la economía de la frontera colombo-venezolana (Ensayos sobre Economía Regional N.° 59)
+T2  - Banco de la República de Colombia
+JF  - Banco de la República de Colombia
+VL  - 59
+IS  - 1
+SP  - 1
+EP  - 48
+UR  - https://repositorio.banrep.gov.co/handle/20.500.12134/3075
+KW  - border retail
+KW  - exchange rate volatility
+KW  - macroeconomic volatility
+KW  - retail
+ER  - 
+
+TY  - RPRT
+AU  - Sánchez Jabba, A.
+PY  - 2014
+TI  - Crisis en la frontera: impacto económico del cierre fronterizo en Cúcuta (Documentos de Trabajo sobre Economía Regional N.° 207)
+T2  - Banco de la República de Colombia
+JF  - Banco de la República de Colombia
+VL  - 207
+IS  - 1
+SP  - 1
+EP  - 42
+UR  - https://repositorio.banrep.gov.co/handle/20.500.12134/3050
+KW  - border retail
+KW  - exchange rate volatility
+KW  - macroeconomic volatility
+KW  - seasonality
+ER  - 
+
+TY  - JOUR
+AU  - Makridakis, S.
+AU  - Spiliotis, E.
+AU  - Assimakopoulos, V.
+PY  - 2022
+TI  - M5 accuracy competition: Results, findings, and conclusions
+T2  - International Journal of Forecasting
+JF  - International Journal of Forecasting
+VL  - 38
+IS  - 4
+SP  - 1346
+EP  - 1364
+DO  - 10.1016/j.ijforecast.2021.11.013
+UR  - https://doi.org/10.1016/j.ijforecast.2021.11.013
+KW  - demand forecasting
+KW  - retail
+KW  - machine learning
+KW  - LightGBM
+KW  - gradient boosting
+KW  - time series
+ER  - 
+
+TY  - JOUR
+AU  - Fildes, R.
+AU  - Ma, S.
+AU  - Kolassa, S.
+PY  - 2022
+TI  - Retail forecasting: Research and practice
+T2  - International Journal of Forecasting
+JF  - International Journal of Forecasting
+VL  - 38
+IS  - 4
+SP  - 1283
+EP  - 1318
+DO  - 10.1016/j.ijforecast.2019.06.004
+UR  - https://doi.org/10.1016/j.ijforecast.2019.06.004
+KW  - demand forecasting
+KW  - retail
+KW  - sales forecasting
+KW  - seasonality
+KW  - inventory management
+ER  - 
+
+TY  - JOUR
+AU  - Eglite, L.
+AU  - Birzniece, I.
+PY  - 2022
+TI  - Retail sales forecasting using deep learning: Systematic literature review
+T2  - Complex Systems Informatics and Modeling Quarterly
+JF  - Complex Systems Informatics and Modeling Quarterly
+VL  - 30
+IS  - 1
+SP  - 53
+EP  - 62
+DO  - 10.7250/csimq.2022-30.03
+UR  - https://doi.org/10.7250/csimq.2022-30.03
+KW  - sales forecasting
+KW  - retail
+KW  - deep learning
+KW  - systematic review
+KW  - machine learning
+ER  - 
+
+TY  - JOUR
+AU  - Jiménez Alfaro, A. D.
+AU  - Díaz Ospina, J. V.
+PY  - 2022
+TI  - Revisión sistemática de literatura: técnicas de aprendizaje automático (Machine Learning)
+T2  - Cuaderno Activa
+JF  - Cuaderno Activa
+VL  - 13
+IS  - 1
+SP  - 113
+EP  - 121
+UR  - https://ojs.tdea.edu.co/index.php/cuadernoactiva/article/view/849
+KW  - machine learning
+KW  - sales forecasting
+KW  - systematic review
+KW  - retail
+ER  - 
+
+TY  - JOUR
+AU  - Haque, M. S.
+AU  - Amin, M. S.
+AU  - Miah, J.
+PY  - 2023
+TI  - Retail demand forecasting: A comparative study for multivariate time series
+T2  - arXiv Preprint
+JF  - arXiv Preprint
+VL  - 2308.11939
+IS  - 1
+SP  - 1
+EP  - 14
+DO  - 10.48550/arXiv.2308.11939
+UR  - https://doi.org/10.48550/arXiv.2308.11939
+KW  - demand forecasting
+KW  - retail
+KW  - LightGBM
+KW  - XGBoost
+KW  - linear regression
+KW  - time series
+ER  - 
+
+TY  - JOUR
+AU  - Muth, M.
+AU  - Lingenfelder, M.
+AU  - Nufer, G.
+PY  - 2025
+TI  - The application of machine learning for demand prediction under macroeconomic volatility: A systematic literature review
+T2  - Management Review Quarterly
+JF  - Management Review Quarterly
+VL  - 75
+IS  - 3
+SP  - 2759
+EP  - 2802
+DO  - 10.1007/s11301-024-00447-8
+UR  - https://doi.org/10.1007/s11301-024-00447-8
+KW  - demand forecasting
+KW  - machine learning
+KW  - macroeconomic volatility
+KW  - exchange rate volatility
+KW  - systematic review
+ER  - 
+
+TY  - CONF
+AU  - Ke, G.
+AU  - Meng, Q.
+AU  - Finley, T.
+AU  - Wang, T.
+AU  - Chen, W.
+AU  - Ma, W.
+AU  - Ye, Q.
+AU  - Liu, T.-Y.
+PY  - 2017
+TI  - LightGBM: A highly efficient gradient boosting decision tree
+T2  - Advances in Neural Information Processing Systems (NeurIPS)
+JF  - Advances in Neural Information Processing Systems (NeurIPS)
+VL  - 30
+IS  - 1
+SP  - 3146
+EP  - 3154
+UR  - https://proceedings.neurips.cc/paper/2017/hash/6449f44a102fde848669bdd9eb6b76fa-Abstract.html
+KW  - LightGBM
+KW  - gradient boosting
+KW  - machine learning
+KW  - parallel computing
+ER  - 
+
+TY  - CONF
+AU  - Chen, T.
+AU  - Guestrin, C.
+PY  - 2016
+TI  - XGBoost: A scalable tree boosting system
+T2  - Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
+JF  - Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
+VL  - 22
+IS  - 1
+SP  - 785
+EP  - 794
+DO  - 10.1145/2939672.2939785
+UR  - https://doi.org/10.1145/2939672.2939785
+KW  - XGBoost
+KW  - gradient boosting
+KW  - machine learning
+KW  - parallel computing
+KW  - OpenMP
+ER  - 
+
+TY  - JOUR
+AU  - Bojer, C. S.
+AU  - Meldgaard, J. P.
+PY  - 2021
+TI  - Kaggle forecasting competitions: An overlooked learning opportunity
+T2  - International Journal of Forecasting
+JF  - International Journal of Forecasting
+VL  - 37
+IS  - 2
+SP  - 587
+EP  - 603
+DO  - 10.1016/j.ijforecast.2020.07.007
+UR  - https://doi.org/10.1016/j.ijforecast.2020.07.007
+KW  - demand forecasting
+KW  - retail
+KW  - machine learning
+KW  - time series
+KW  - feature engineering
+ER  - 
+
+TY  - JOUR
+AU  - Huber, J.
+AU  - Stuckenschmidt, H.
+PY  - 2020
+TI  - Daily retail demand forecasting using machine learning with emphasis on calendric special days
+T2  - International Journal of Forecasting
+JF  - International Journal of Forecasting
+VL  - 36
+IS  - 4
+SP  - 1420
+EP  - 1438
+DO  - 10.1016/j.ijforecast.2020.02.005
+UR  - https://doi.org/10.1016/j.ijforecast.2020.02.005
+KW  - demand forecasting
+KW  - retail
+KW  - machine learning
+KW  - seasonality
+ER  - 
+
+TY  - JOUR
+AU  - Salinas, D.
+AU  - Flunkert, V.
+AU  - Gasthaus, J.
+AU  - Januschowski, T.
+PY  - 2020
+TI  - DeepAR: Probabilistic forecasting with autoregressive recurrent networks
+T2  - International Journal of Forecasting
+JF  - International Journal of Forecasting
+VL  - 36
+IS  - 3
+SP  - 1181
+EP  - 1191
+DO  - 10.1016/j.ijforecast.2019.07.001
+UR  - https://doi.org/10.1016/j.ijforecast.2019.07.001
+KW  - demand forecasting
+KW  - deep learning
+KW  - time series
+KW  - retail
+ER  - 
+
+TY  - JOUR
+AU  - Bandara, K.
+AU  - Shi, P.
+AU  - Bergmeir, C.
+AU  - Hewamalage, H.
+AU  - Tran, Q.
+AU  - Seaman, B.
+PY  - 2019
+TI  - Sales demand forecast in e-commerce using a long short-term memory neural network methodology
+T2  - Lecture Notes in Computer Science (ICONIP)
+JF  - Lecture Notes in Computer Science (ICONIP)
+VL  - 11955
+IS  - 1
+SP  - 462
+EP  - 474
+DO  - 10.1007/978-3-030-36718-3_39
+UR  - https://doi.org/10.1007/978-3-030-36718-3_39
+KW  - sales forecasting
+KW  - retail
+KW  - deep learning
+KW  - time series
+ER  - 
+
+TY  - JOUR
+AU  - Abolghasemi, M.
+AU  - Beh, E.
+AU  - Tarr, G.
+AU  - Gerlach, R.
+PY  - 2020
+TI  - Demand forecasting in supply chain: The impact of demand volatility in the presence of promotion
+T2  - Computers & Industrial Engineering
+JF  - Computers & Industrial Engineering
+VL  - 142
+IS  - 1
+SP  - 106380
+DO  - 10.1016/j.cie.2020.106380
+UR  - https://doi.org/10.1016/j.cie.2020.106380
+KW  - demand forecasting
+KW  - retail
+KW  - macroeconomic volatility
+KW  - machine learning
+KW  - inventory management
+ER  - 
+
+TY  - JOUR
+AU  - Punam, K.
+AU  - Pamula, R.
+AU  - Jain, P. K.
+PY  - 2018
+TI  - A two-level statistical model for big mart sales prediction
+T2  - 2018 International Conference on Computing, Power and Communication Technologies (GUCON)
+JF  - 2018 International Conference on Computing, Power and Communication Technologies (GUCON)
+VL  - 1
+IS  - 1
+SP  - 617
+EP  - 620
+DO  - 10.1109/GUCON.2018.8675060
+UR  - https://doi.org/10.1109/GUCON.2018.8675060
+KW  - sales forecasting
+KW  - retail
+KW  - linear regression
+KW  - machine learning
+ER  - 
+
+TY  - CONF
+AU  - Prior González, B.
+AU  - Peralta Donate, J.
+AU  - Cortez, P.
+AU  - Gutiérrez Sánchez, G.
+AU  - Sanchis de Miguel, A.
+PY  - 2012
+TI  - Parallelization of an evolving artificial neural networks system to forecast time series using OpenMP and MPI
+T2  - 2012 IEEE Conference on Evolving and Adaptive Intelligent Systems (EAIS)
+JF  - 2012 IEEE Conference on Evolving and Adaptive Intelligent Systems (EAIS)
+VL  - 1
+IS  - 1
+SP  - 186
+EP  - 191
+DO  - 10.1109/EAIS.2012.6232827
+UR  - https://doi.org/10.1109/EAIS.2012.6232827
+KW  - OpenMP
+KW  - MPI
+KW  - parallel computing
+KW  - time series
+KW  - speedup
+ER  - 
+
+TY  - JOUR
+AU  - Coelho, V. N.
+AU  - Coelho, I. M.
+AU  - Rios, E.
+AU  - Filho, A. S. T.
+AU  - Reis, A. J. R.
+AU  - Guimarães, F. G.
+PY  - 2016
+TI  - A hybrid deep learning forecasting model using GPU disaggregated function evaluations applied for household electricity demand forecasting
+T2  - Energy Procedia
+JF  - Energy Procedia
+VL  - 103
+IS  - 1
+SP  - 280
+EP  - 285
+DO  - 10.1016/j.egypro.2016.11.286
+UR  - https://doi.org/10.1016/j.egypro.2016.11.286
+KW  - GPU
+KW  - CUDA
+KW  - demand forecasting
+KW  - deep learning
+KW  - parallel computing
+ER  - 
+
+TY  - JOUR
+AU  - Mitchell, R.
+AU  - Frank, E.
+PY  - 2017
+TI  - Accelerating the XGBoost algorithm using GPU computing
+T2  - PeerJ Computer Science
+JF  - PeerJ Computer Science
+VL  - 3
+IS  - 1
+SP  - e127
+DO  - 10.7717/peerj-cs.127
+UR  - https://doi.org/10.7717/peerj-cs.127
+KW  - CUDA
+KW  - GPU
+KW  - XGBoost
+KW  - parallel computing
+KW  - speedup
+KW  - gradient boosting
+ER  - 
+
+TY  - CONF
+AU  - Grim, L. F. L.
+AU  - Gradvohl, A. L. S.
+PY  - 2018
+TI  - High-performance ensembles of online sequential extreme learning machine for regression and time series forecasting
+T2  - Proceedings of the 30th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD)
+JF  - Proceedings of the 30th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD)
+VL  - 30
+IS  - 1
+SP  - 394
+EP  - 401
+DO  - 10.1109/CAHPC.2018.8645912
+UR  - https://sol.sbc.org.br/index.php/sbac-pad/article/view/34980
+KW  - MPI
+KW  - OpenMP
+KW  - parallel computing
+KW  - time series
+KW  - speedup
+ER  - 
+
+TY  - JOUR
+AU  - Candelieri, A.
+AU  - Giordani, I.
+AU  - Archetti, F.
+AU  - Barkalov, K.
+AU  - Meyerov, I.
+AU  - Polovinkin, A.
+AU  - Sysoyev, A.
+AU  - Zolotykh, N.
+PY  - 2019
+TI  - Tuning hyperparameters of a SVM-based water demand forecasting system through parallel global optimization
+T2  - Computers & Operations Research
+JF  - Computers & Operations Research
+VL  - 106
+IS  - 1
+SP  - 202
+EP  - 209
+DO  - 10.1016/j.cor.2018.01.013
+UR  - https://doi.org/10.1016/j.cor.2018.01.013
+KW  - parallel computing
+KW  - OpenMP
+KW  - MPI
+KW  - demand forecasting
+KW  - machine learning
+ER  - 
+
+TY  - JOUR
+AU  - Criado-Ramón, D.
+AU  - Ruiz, L. G. B.
+AU  - Pegalajar, M. C.
+PY  - 2023
+TI  - CUDA-bigPSF: An optimized version of bigPSF accelerated with graphics processing unit
+T2  - Expert Systems with Applications
+JF  - Expert Systems with Applications
+VL  - 230
+IS  - 1
+SP  - 120661
+DO  - 10.1016/j.eswa.2023.120661
+UR  - https://doi.org/10.1016/j.eswa.2023.120661
+KW  - CUDA
+KW  - GPU
+KW  - time series
+KW  - parallel computing
+KW  - speedup
+ER  - 
+
+TY  - CONF
+AU  - Chu, C.-T.
+AU  - Kim, S. K.
+AU  - Lin, Y.-A.
+AU  - Yu, Y.
+AU  - Bradski, G.
+AU  - Ng, A. Y.
+AU  - Olukotun, K.
+PY  - 2007
+TI  - Map-Reduce for machine learning on multicore
+T2  - Advances in Neural Information Processing Systems (NIPS)
+JF  - Advances in Neural Information Processing Systems (NIPS)
+VL  - 19
+IS  - 1
+SP  - 281
+EP  - 288
+UR  - https://proceedings.neurips.cc/paper/2006/hash/77ee3bc58ce560b86c2b59363281e914-Abstract.html
+KW  - parallel computing
+KW  - machine learning
+KW  - linear regression
+KW  - gradient descent
+KW  - speedup
+ER  - 
+
+TY  - CONF
+AU  - Zinkevich, M.
+AU  - Weimer, M.
+AU  - Li, L.
+AU  - Smola, A. J.
+PY  - 2010
+TI  - Parallelized stochastic gradient descent
+T2  - Advances in Neural Information Processing Systems (NIPS)
+JF  - Advances in Neural Information Processing Systems (NIPS)
+VL  - 23
+IS  - 1
+SP  - 2595
+EP  - 2603
+UR  - https://proceedings.neurips.cc/paper/2010/hash/abea47ba24142ed16b7d8fbf2c740e0d-Abstract.html
+KW  - gradient descent
+KW  - parallel computing
+KW  - MPI
+KW  - machine learning
+KW  - linear regression
+ER  - 
+
+TY  - JOUR
+AU  - Dagum, L.
+AU  - Menon, R.
+PY  - 1998
+TI  - OpenMP: An industry standard API for shared-memory programming
+T2  - IEEE Computational Science and Engineering
+JF  - IEEE Computational Science and Engineering
+VL  - 5
+IS  - 1
+SP  - 46
+EP  - 55
+DO  - 10.1109/99.660313
+UR  - https://doi.org/10.1109/99.660313
+KW  - OpenMP
+KW  - parallel computing
+KW  - shared memory
+KW  - speedup
+ER  - 
+
+TY  - JOUR
+AU  - Nickolls, J.
+AU  - Buck, I.
+AU  - Garland, M.
+AU  - Skadron, K.
+PY  - 2008
+TI  - Scalable parallel programming with CUDA
+T2  - ACM Queue
+JF  - ACM Queue
+VL  - 6
+IS  - 2
+SP  - 40
+EP  - 53
+DO  - 10.1145/1365490.1365500
+UR  - https://doi.org/10.1145/1365490.1365500
+KW  - CUDA
+KW  - GPU
+KW  - parallel computing
+KW  - speedup
+ER  - 
+
+TY  - JOUR
+AU  - Gropp, W.
+AU  - Lusk, E.
+AU  - Doss, N.
+AU  - Skjellum, A.
+PY  - 1996
+TI  - A high-performance, portable implementation of the MPI message passing interface standard
+T2  - Parallel Computing
+JF  - Parallel Computing
+VL  - 22
+IS  - 6
+SP  - 789
+EP  - 828
+DO  - 10.1016/0167-8191(96)00024-5
+UR  - https://doi.org/10.1016/0167-8191(96)00024-5
+KW  - MPI
+KW  - parallel computing
+KW  - distributed memory
+KW  - speedup
+ER  - 
+
+TY  - JOUR
+AU  - Xia, Y.
+AU  - Arian, A.
+AU  - Narayanamoorthy, S.
+AU  - Mabry, J.
+PY  - 2023
+TI  - RetailSynth: Synthetic data generation for retail AI systems evaluation
+T2  - arXiv Preprint
+JF  - arXiv Preprint
+VL  - 2312.14095
+IS  - 1
+SP  - 1
+EP  - 18
+DO  - 10.48550/arXiv.2312.14095
+UR  - https://doi.org/10.48550/arXiv.2312.14095
+KW  - synthetic data
+KW  - retail
+KW  - demand forecasting
+KW  - machine learning
+KW  - simulation
+ER  - 
+
+TY  - JOUR
+AU  - Xia, Y.
+AU  - Wang, C.-H.
+AU  - Mabry, J.
+AU  - Cheng, G.
+PY  - 2024
+TI  - Advancing retail data science: Comprehensive evaluation of synthetic data
+T2  - arXiv Preprint
+JF  - arXiv Preprint
+VL  - 2406.13130
+IS  - 1
+SP  - 1
+EP  - 22
+DO  - 10.48550/arXiv.2406.13130
+UR  - https://doi.org/10.48550/arXiv.2406.13130
+KW  - synthetic data
+KW  - retail
+KW  - machine learning
+KW  - simulation
+ER  - 
+
+TY  - CONF
+AU  - Xu, L.
+AU  - Skoularidou, M.
+AU  - Cuesta-Infante, A.
+AU  - Veeramachaneni, K.
+PY  - 2019
+TI  - Modeling tabular data using conditional GAN
+T2  - Advances in Neural Information Processing Systems (NeurIPS)
+JF  - Advances in Neural Information Processing Systems (NeurIPS)
+VL  - 32
+IS  - 1
+SP  - 7335
+EP  - 7345
+UR  - https://proceedings.neurips.cc/paper/2019/hash/254ed7d2de3b23ab10936522dd547b78-Abstract.html
+KW  - synthetic data
+KW  - deep learning
+KW  - machine learning
+KW  - simulation
+ER  - 
+
+TY  - CONF
+AU  - Yoon, J.
+AU  - Jarrett, D.
+AU  - van der Schaar, M.
+PY  - 2019
+TI  - Time-series generative adversarial networks
+T2  - Advances in Neural Information Processing Systems (NeurIPS)
+JF  - Advances in Neural Information Processing Systems (NeurIPS)
+VL  - 32
+IS  - 1
+SP  - 5508
+EP  - 5518
+UR  - https://proceedings.neurips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html
+KW  - synthetic data
+KW  - time series
+KW  - deep learning
+KW  - simulation
+ER  - 
+
+TY  - JOUR
+AU  - Jordon, J.
+AU  - Szpruch, L.
+AU  - Houssiau, F.
+AU  - Bottarelli, M.
+AU  - Cherubin, G.
+AU  - Maple, C.
+AU  - Cohen, S. N.
+AU  - Weller, A.
+PY  - 2022
+TI  - Synthetic data -- what, why and how?
+T2  - Royal Society Commissioning Report / arXiv
+JF  - Royal Society Commissioning Report / arXiv
+VL  - 2205.03257
+IS  - 1
+SP  - 1
+EP  - 39
+DO  - 10.48550/arXiv.2205.03257
+UR  - https://doi.org/10.48550/arXiv.2205.03257
+KW  - synthetic data
+KW  - simulation
+KW  - machine learning
+KW  - retail
+ER  - 

@@ -1,8 +1,12 @@
 # Predicción de demanda del comercio minorista · La Parada (Norte de Santander)
 
-Prototipo de la monografía de **Sistemas Inteligentes** (Universidad de Pamplona): predice la demanda mensual por categoría y por comercio
+Prototipo de la monografía de **Sistemas Inteligentes** (Universidad de Pamplona, 2026-2 · Docente: Ing. José Gerardo Chacón Rangel): predice la demanda mensual por categoría y por comercio
 en la zona de frontera de La Parada (Villa del Rosario / Cúcuta) con *machine learning* sobre datos sintéticos, y **mide el efecto de paralelizar
 el entrenamiento** (OpenMP, MPI y CUDA) sobre el tiempo y sobre la precisión.
+
+**Autores:** Carlos Sebastián Antolínez Colorado · Wilber Santiago Barajas Cordero · Justir Javier Páez Torres · Kevin Medina Nava
+
+📦 **Paquete completo de entregables para la defensa final (2026-2):** [`entregables_defensa/README_ENTREGABLES.md`](entregables_defensa/README_ENTREGABLES.md)
 
 ## Resultados principales (1 millón de registros, 300 épocas)
 | Modo | Tiempo | Veces más rápido que C con 1 núcleo |
