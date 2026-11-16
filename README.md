@@ -6,7 +6,7 @@ el entrenamiento** (OpenMP, MPI y CUDA) sobre el tiempo y sobre la precisión.
 
 **Autores:** Carlos Sebastián Antolínez Colorado · Wilber Santiago Barajas Cordero · Justir Javier Páez Torres · Kevin Medina Nava
 
-📦 **Paquete completo de entregables para la defensa final (2026-2):** [`entregables_defensa/README_ENTREGABLES.md`](entregables_defensa/README_ENTREGABLES.md)
+**Paquete completo de entregables para la defensa final (2026-2):** [`entregables_defensa/README_ENTREGABLES.md`](entregables_defensa/README_ENTREGABLES.md)
 
 ## Resultados principales (1 millón de registros, 300 épocas)
 | Modo | Tiempo | Veces más rápido que C con 1 núcleo |

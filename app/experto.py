@@ -9,7 +9,7 @@ PAGINAS = ["Sistema completo", "Datos", "Entrenamiento en vivo", "Predicciones",
 
 
 def render():
-    st.sidebar.title("📈 Demanda La Parada")
+    st.sidebar.title("Demanda La Parada")
     modo_tam = st.sidebar.radio("Tamano del dataset", ["10k", "100k", "1M", "Personalizado"], index=1, horizontal=True)
     if modo_tam == "Personalizado": tam = f"c{st.sidebar.slider('Comercios (x1584 filas c/u)', 3, 631, 20)}"
     else: tam = modo_tam
@@ -20,9 +20,9 @@ def render():
         m_ = st.session_state.get(f"modelo_{tam}")
         with estado.container():
             st.markdown("**Estado del sistema**")
-            st.markdown(("✅" if tiene_datos(tam) else "⬜") + " Datos generados")
-            st.markdown(("✅" if tiene_feats(tam) else "⬜") + " Variables construidas")
-            st.markdown(("✅" if m_ else "⬜") + " Modelo entrenado" + (f" · MAE {m_['mae']:.1f}" if m_ else ""))
+            st.markdown(("[OK]" if tiene_datos(tam) else "[ ]") + " Datos generados")
+            st.markdown(("[OK]" if tiene_feats(tam) else "[ ]") + " Variables construidas")
+            st.markdown(("[OK]" if m_ else "[ ]") + " Modelo entrenado" + (f" · MAE {m_['mae']:.1f}" if m_ else ""))
     render_estado(); st.sidebar.divider()
     pagina = st.sidebar.radio("Ir a", PAGINAS, label_visibility="collapsed")
     M = st.session_state.get(f"modelo_{tam}")

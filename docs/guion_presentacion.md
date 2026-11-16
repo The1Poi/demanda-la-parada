@@ -196,13 +196,13 @@ Un modelo más preciso, MPI en varios computadores reales, datasets de decenas d
 ---
 
 ## 7. Qué NO decir (para no exagerar)
-- ❌ «Predice las ventas reales de La Parada» → ✅ «predice sobre datos **simulados** con reglas realistas».
-- ❌ «La GPU siempre es mejor» → ✅ «ganó **cuando los datos están dentro de ella**; por lotes no ganó».
-- ❌ «Más núcleos = proporcionalmente más rápido» → ✅ «en CPU ganamos 1,5–1,7× y se estanca».
-- ❌ «El modelo es muy preciso» → ✅ «es un modelo simple a propósito; hoy copiar el mes pasado acierta un poco más».
-- ❌ «Probamos MPI en un clúster» → ✅ «MPI con varios procesos en **un solo computador**».
-- ❌ «El pronóstico dice qué pasará con el dólar» → ✅ «son **escenarios supuestos**».
-- ❌ Dar un tiempo de CPU como exacto → ✅ «varía hasta ±30 % entre corridas».
+- Evitar: «Predice las ventas reales de La Parada» → Correcto: «predice sobre datos **simulados** con reglas realistas».
+- Evitar: «La GPU siempre es mejor» → Correcto: «ganó **cuando los datos están dentro de ella**; por lotes no ganó».
+- Evitar: «Más núcleos = proporcionalmente más rápido» → Correcto: «en CPU ganamos 1,5–1,7× y se estanca».
+- Evitar: «El modelo es muy preciso» → Correcto: «es un modelo simple a propósito; hoy copiar el mes pasado acierta un poco más».
+- Evitar: «Probamos MPI en un clúster» → Correcto: «MPI con varios procesos en **un solo computador**».
+- Evitar: «El pronóstico dice qué pasará con el dólar» → Correcto: «son **escenarios supuestos**».
+- Evitar: Dar un tiempo de CPU como exacto → Correcto: «varía hasta ±30 % entre corridas».
 
 ---
 

@@ -102,7 +102,7 @@ def render():
             h = pd.DataFrame(hist, columns=["e", "tr", "va"]); f2 = fig_base(420, title="Error del modelo (menor = mejor)", font=FONT)
             f2.add_trace(go.Scatter(x=h.e, y=h.tr, name="Con datos de entrenamiento", line=dict(color=AZUL, width=3))); f2.add_trace(go.Scatter(x=h.e, y=h.va, name="Con datos nuevos", line=dict(color=VERDE, width=3, dash="dot")))
             f2.update_yaxes(type="log", title="Error (escala log)"); f2.update_xaxes(range=[0, EPOCHS_DEF], title="Época"); ch2.plotly_chart(f2, width="stretch")
-            cab.markdown(f"### Época {e + 1} de {EPOCHS_DEF}" + ("  ✅ ¡Entrenamiento terminado!" if final else ""))
+            cab.markdown(f"### Época {e + 1} de {EPOCHS_DEF}" + ("  [OK] ¡Entrenamiento terminado!" if final else ""))
         mostrar = set(list(range(0, 30, 3)) + list(range(30, 120, 10)) + list(range(120, 300, 15)) + [EPOCHS_DEF - 1])
         if lanzar:
             def cb(e, w, hist):
@@ -208,7 +208,7 @@ def render():
         pts += ["**Lo que sigue:** un modelo más preciso, probar MPI en varios computadores y datasets de decenas de millones de registros."]
         for k, t in enumerate(pts, 1): st.markdown(f"<div style='font-size:1.3rem;margin:.6rem 0'><b>{k}.</b> {_html(t)}</div>", unsafe_allow_html=True)
         st.warning("**Honestidad científica:** los datos son sintéticos (el dólar sí es real); el modelo es simple y hoy no supera a «copiar el mes pasado»; los tiempos de CPU varían entre corridas.")
-        with st.expander("❓ Preguntas frecuentes del público"):
+        with st.expander("Preguntas frecuentes del público"):
             st.markdown("""
 - **¿Los datos son reales?** No: son simulados con reglas realistas (temporada, eventos, dólar). El dólar es la serie oficial. No existe un registro público de ventas de La Parada.
 - **¿Por qué un modelo tan sencillo?** Para tener un cálculo claro y repetible con el que medir el efecto del paralelismo. Mejorar el modelo es el siguiente paso.

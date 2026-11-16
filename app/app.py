@@ -8,7 +8,7 @@ for _v in ("OMP_NUM_THREADS", "OPENBLAS_NUM_THREADS", "MKL_NUM_THREADS", "VECLIB
 import sys
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, os.path.join(HERE, "..", "src")); sys.path.insert(0, HERE)
 import streamlit as st
-st.set_page_config(page_title="Predicción de demanda · La Parada", layout="wide", page_icon="📈", initial_sidebar_state="auto")
+st.set_page_config(page_title="Predicción de demanda · La Parada", layout="wide", initial_sidebar_state="auto")
 from sin_throttle import sin_throttle
 sin_throttle()
 import nucleo, experto, recorrido
@@ -30,8 +30,8 @@ div[data-testid="stRadio"] label p{font-size:.95rem}
 st.markdown(CSS_BASE, unsafe_allow_html=True)
 top = st.columns([3, 3])
 top[0].caption("Universidad de Pamplona · Sistemas Inteligentes · Predicción de demanda con computación paralela")
-modo = top[1].radio("Modo", ["🎪 Recorrido guiado", "🔬 Modo experto"], horizontal=True, label_visibility="collapsed", key="modo_ui")
-if modo.startswith("🎪"):
+modo = top[1].radio("Modo", ["Recorrido guiado", "Modo experto"], horizontal=True, label_visibility="collapsed", key="modo_ui")
+if modo == "Recorrido guiado":
     st.markdown(CSS_FERIA, unsafe_allow_html=True); recorrido.render()
 else:
     experto.render()
